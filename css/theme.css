@@ -175,6 +175,14 @@ div[data-role='controlgroup'] a[data-role='button']:last-child {
 #userProfilesPage .cardImage {
   border-radius: 10px 10px 0 0 !important;
 }
+.mainDrawer.transition.touch-menu-la{
+    left:320px;
+}
+.mainAnimatedPages {
+    left: 320px;
+    position: absolute;
+    right: 0px;
+}
 .cardOverlayFab-primary {
   background-color: #00000000;
   transistion: 8sec;
